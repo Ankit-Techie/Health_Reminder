@@ -13,7 +13,7 @@ As a programmer need's to deal with our work for hours (9 a.m. to 5 p.m.) sittin
 # Requirements:-
 1. python (python 3 and above)
 2. Files for alarm sound- 
-    * "water.mp3", "eyes exercise.mp3", "exercise.mp3"
+    * "water.mp3", "eyes exercise.mp3", "exercise.mp3" (ALL THE FILES ARE UPLOADED)
 3. "log.txt" file
 ## HOPE YOU LIKE THIS PROGRAM
 
